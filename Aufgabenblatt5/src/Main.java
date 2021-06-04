@@ -30,7 +30,6 @@ public class Main {
 		
 		
 		// Berechnung der Primzahlen zwischen 2 und 20
-		
 		for(int i = 2; i<=20;i++) {
 			smartNumber.setNumber(i);
 			smartNumber.isPrime();
